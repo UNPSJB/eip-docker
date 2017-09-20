@@ -10,4 +10,16 @@
 
 * <a href="01 - Usando Dockerfiles.ipynb">Clase 1 - Usando Dockerfiles</a> | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/01%20-%20Usando%20Dockerfiles.ipynb)
 * <a href="02 - Aislación, Conectividad y Red.ipynb">Clase 2 - Aislación, Cnecitivdad y Red</a> | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/02%20-%20Aislaci%C3%B3n%2C%20Conectividad%20y%20Red.ipynb)
- 
+
+
+# Ver este material offline
+
+Este material fue elaborado con Jupyter, para visualizarlo (y ejecutarlo)
+offline podemos usar el contenedor de Jupyter, utilizando un volumen para
+compartir la copia (ya sea descarga del zip o git clone).
+
+Recordar que $(pwd) es un comand de linux y se substituye por la carpeta/directorio actual, en Windows probalemente se obtenga con `%cd%`.
+
+```
+docker run -p 8888:8888 -v $(pwd):/home/jovyan                                
+``` 
