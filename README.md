@@ -8,8 +8,9 @@
     
 # Conteindos
 
-* <a href="01 - Usando Dockerfiles.ipynb">Clase 1</a> 
-* <a href="02 - Aislación, Conectividad y Red.ipynb">Clase 1</a> 
+* <a href="01 - Usando Dockerfiles.ipynb">Clase 1 - Usando Dockerfiles</a> 
+* <a href="02 - Aislación, Conectividad y Red.ipynb">Clase 2 - Aislación, Cnecitivdad y Red</a>
+ 
  
 <!--
 * [Los porqué de los contenedores](01-docker.md)
