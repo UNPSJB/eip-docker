@@ -8,43 +8,6 @@
     
 # Conteindos
 
-* <a href="01 - Usando Dockerfiles.ipynb">Clase 1 - Usando Dockerfiles</a> 
-* <a href="02 - Aislación, Conectividad y Red.ipynb">Clase 2 - Aislación, Cnecitivdad y Red</a>
+* <a href="01 - Usando Dockerfiles.ipynb">Clase 1 - Usando Dockerfiles</a> | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/01%20-%20Usando%20Dockerfiles.ipynb)
+* <a href="02 - Aislación, Conectividad y Red.ipynb">Clase 2 - Aislación, Cnecitivdad y Red</a> | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/02%20-%20Aislaci%C3%B3n%2C%20Conectividad%20y%20Red.ipynb)
  
- 
-<!--
-* [Los porqué de los contenedores](01-docker.md)
-    * Contenedores vs. máquinas virtuales 
-    * Docker y containers 
-    * La historia
-    * Plugins instalación (no)
-    * Primeros pasos 
-    * La primera imagen 
-    * Comandos básicos 
-    * Construir imágenes desde dockerfiles 
-    * Trabajando con registros 
-        - Uso de imágenes existentes
-        - Pushing de la imagen 
-* [Fundamentos de Docker](02-fundamentos.md)
-    * Arquitectura 
-    * Conectividad 
-    * Contenedores enlazados 
-    * Gestión de datos con volúmenes y contenedores
-    * Comandos comunes de docker 
-* [Uso de docker en desarrollo](./03-uso-en-desarrollo.md)
-    * Despliegue de containers
-* Creación de una aplicación web de ejemplo 
-    * Caching
-    * Microservicios 
-    * Distribución de imágenes 
-* [Integración continua y testing con docker](04-integacion-continua.md)
-    * Testing
-    * Contenedores en gitlab
-    * Networking y service   
-* [Discovery orquestación, clustering y gestión](05-orquestacion.md)
-    * Kubernetes
-    * Ver tutorial interactivo de https://kubernetes.io/docs/tutorials/kubernetes-basics/cluster-interactive/
-    * Plataformas de Gestión de Containers
-
-
--->
