@@ -14,6 +14,20 @@
 
 # Ver este material offline
 
+## Usando Jupyter local
+
+Con el software pip instalar:
+```
+pip install jupyter
+```
+y luego:
+```
+jupyter notebook 
+```
+en el directorio actual, y hacer click en el link que muestre en la consola.
+
+## Con contenedores
+
 Este material fue elaborado con Jupyter, para visualizarlo (y ejecutarlo)
 offline podemos usar el contenedor de Jupyter, utilizando un volumen para
 compartir la copia (ya sea descarga del zip o git clone).
