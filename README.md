@@ -8,8 +8,9 @@
     
 # Conteindos
 
-* [Usando Dockerfiles](./01 - Usando Dockerfiles.ipynb)
-* [Aislación y Red](./02 - Aislación, Conectividad y Red.ipynb)
+* <a href="01 - Usando Dockerfiles.ipynb">Clase 1</a> 
+* <a href="02 - Aislación, Conectividad y Red.ipynb">Clase 1</a> 
+ 
 <!--
 * [Los porqué de los contenedores](01-docker.md)
     * Contenedores vs. máquinas virtuales 
