@@ -5,6 +5,10 @@
 
 * Lucy Marticorena
 * Nahuel Defossé
+
+# Errores u omisiones?
+
+* [Creá un issue](https://github.com/UNPSJB/eip-docker/issues/new)
     
 # Conteindos
 
@@ -14,7 +18,7 @@
 * [Clase 2 - Aislación, Cnecitivdad y Red](02%20-%20Aislación%2C%20Conectividad%20y%20Red.ipynb) | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/02%20-%20Aislaci%C3%B3n%2C%20Conectividad%20y%20Red.ipynb)
 * [Clase 3 - Contenedores en Desarrollo](03%20-%20Contenedores%20en%20Desarrollo.ipynb) | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/03%20-%20Contenedores%20en%20Desarrollo.ipynb)
 * [Clase 4 - Construcción automática y puesta en producción](04%20-%20Construcción%20automática%20y%20puesta%20en%20Producción.ipynb) | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/04%20-%20Construcci%C3%B3n%20autom%C3%A1tica%20y%20puesta%20en%20Producci%C3%B3n.ipynb)
-
+* [05 - Orquestación](05%20-%20Orquestación.ipynb) | [Visor alternativo]()
 
 
 
@@ -41,5 +45,5 @@ compartir la copia (ya sea descarga del zip o git clone).
 Recordar que $(pwd) es un comand de linux y se substituye por la carpeta/directorio actual, en Windows probalemente se obtenga con `%cd%`.
 
 ```
-docker run -p 8888:8888 -v $(pwd):/home/jovyan                                
+docker run -p 8888:8888 -v $(pwd):/home/jovyan 
 ``` 
