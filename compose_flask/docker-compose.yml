@@ -2,9 +2,8 @@ version: '3'
     
 services:
     web:
+        restart: always
         build:
             context: .
         ports:
             - 3000:3000
-        volumes:
-            - ./code:/code
