@@ -8,6 +8,8 @@
     
 # Conteindos
 
+[Visualizar en Visor liviano de **nbviewer**](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/tree/master/)
+
 * <a href="01 - Usando Dockerfiles.ipynb">Clase 1 - Usando Dockerfiles</a> | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/01%20-%20Usando%20Dockerfiles.ipynb)
 * [Clase 2 - Aislación, Cnecitivdad y Red](02%20-%20Aislación%2C%20Conectividad%20y%20Red.ipynb) | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/02%20-%20Aislaci%C3%B3n%2C%20Conectividad%20y%20Red.ipynb)
 * [Clase 3 - Contenedores en Desarrollo](03%20-%20Contenedores%20en%20Desarrollo.ipynb) | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/03%20-%20Contenedores%20en%20Desarrollo.ipynb)
