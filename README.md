@@ -9,9 +9,9 @@
 # Conteindos
 
 * <a href="01 - Usando Dockerfiles.ipynb">Clase 1 - Usando Dockerfiles</a> | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/01%20-%20Usando%20Dockerfiles.ipynb)
-* <a href="02 - Aislación, Conectividad y Red.ipynb">Clase 2 - Aislación, Cnecitivdad y Red</a> | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/02%20-%20Aislaci%C3%B3n%2C%20Conectividad%20y%20Red.ipynb)
+* [Clase 2 - Aislación, Contectividad y Red](02 - Aislación, Conectividad y Red.ipynb) | [Visor alternativo](https://nbviewer.jupyter.org/github/UNPSJB/eip-docker/blob/master/02%20-%20Aislaci%C3%B3n%2C%20Conectividad%20y%20Red.ipynb)
 * [03 - Contenedores en desarrollo](03%20-%20Contenedores%20en%20Desarrollo.ipynb)
-
+* []()
 
 # Ver este material offline
 
